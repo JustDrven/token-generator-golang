@@ -8,7 +8,7 @@ This project is used to generate secret tokens for internal learners. It is writ
 ```http
 GET /api/token/generate
 
-# Default value: 10
+// Not require
 token-length: 25
 ```
 
